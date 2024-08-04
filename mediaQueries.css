@@ -1,0 +1,13 @@
+@media screen and (max-width : 35em) {
+    html{
+        font-size: 50%;
+    }
+    
+}
+@media screen and (max-width : 28em) {
+   .choices{
+
+    flex-direction: column;
+   }
+    
+}
